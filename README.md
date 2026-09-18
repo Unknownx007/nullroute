@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="644" height="416" alt="1" src="https://github.com/user-attachments/assets/4311071b-95e7-4317-b54f-19aa11ab3678" />
-
+<img width="721" height="424" alt="1" src="https://github.com/user-attachments/assets/75609ddf-247d-49fd-9a87-f2c671c0d02d" />
 
 **built by DEDSEC · "The browser sees everything. So do we."**
 
